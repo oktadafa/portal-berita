@@ -1,0 +1,12 @@
+[90m= [39m[34;4mIlluminate\Database\Eloquent\Collection[39;24m {#4701
+    [34mall[39m: [
+      [34;4mApp\Models\Category[39;24m {#4699
+        [34mid[39m: [35m1[39m,
+        [34mnama[39m: "[32mPersonal[39m",
+        [34mslug[39m: "[32mpersonal[39m",
+        [34mcreated_at[39m: "[32m2023-04-05 02:42:58[39m",
+        [34mupdated_at[39m: "[32m2023-04-05 02:44:34[39m",
+      },
+    ],
+  }
+

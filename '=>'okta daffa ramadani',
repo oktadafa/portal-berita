@@ -1,0 +1,11 @@
+[90m= [39m[34;4mApp\Models\Post[39;24m {#3752
+    [34mjudul[39m: "[32mjudul pertama[39m",
+    [34mpenulis[39m: "[32mokta daffa ramadani[39m",
+    [34mslug[39m: "[32mjudul-pertama[39m",
+    [34mexcerpt[39m: "[32mLorem ipsum dolor sit amet consectetur[39m",
+    [34misi[39m: "[32mLorem ipsum dolor sit amet consectetur adipisicing elit. Minus fuga suscipit consectetur quas possimus illum cumque architecto optio. Odit alias eveniet deleniti numquam cupiditate dolores necessitatibus fugiat accusamus perferendis consequatur quisquam adipisci expedita tempore nisi commodi fugit aspernatur deserunt ipsum unde, magni reiciendis praesentium esse obcaecati omnis? Libero quibusdam voluptatem id nobis perferendis ut. Inventore atque, consequuntur ab impedit, obcaecati amet ratione blanditiis provident sed nobis aut cupiditate, quam neque laborum qui? Consectetur ipsum qui fuga quisquam quam minus maxime quaerat hic perspiciatis ut laboriosam quos, aliquid voluptatem, a temporibus, dolor totam sequi! Corrupti labore accusantium quo dolorem maiores dolore.[39m",
+    [34mupdated_at[39m: "[32m2023-04-03 03:39:04[39m",
+    [34mcreated_at[39m: "[32m2023-04-03 03:39:04[39m",
+    [34mid[39m: [35m1[39m,
+  }
+
